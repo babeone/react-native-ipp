@@ -8,6 +8,8 @@
   "files": [
     "README.md",
     "android",
+    "lib",
+    "index.d.ts",
     "index.js",
     "ios",
     "react-native-ipp.podspec"
@@ -17,8 +19,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-ipp.git",
-    "baseUrl": "https://github.com/github_account/react-native-ipp"
+    "url": "git+https://github.com/babeone/react-native-ipp.git",
+    "baseUrl": "https://github.com/babeone/react-native-ipp"
   },
   "keywords": [
     "react-native"
